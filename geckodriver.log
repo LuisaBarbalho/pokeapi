@@ -1,0 +1,286 @@
+1559222923449	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7m/4zc05jf57nz61bcynfmtkfkr0000gn/T/rust_mozprofile.35wfr9AuU8yp"
+1559222926339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559222926343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559222926343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559222930778	Marionette	INFO	Listening on port 63560
+1559222930857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dc2f4l41&promiseSupport=true, line 5785: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=qgbcu8&v=1.0.0, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=qgbcu8&v=1.0.0, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=ldgo9j, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=ldgo9j, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559225103530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7m/4zc05jf57nz61bcynfmtkfkr0000gn/T/rust_mozprofile.TGkjDwojLFC1"
+1559225107428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559225107431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559225107431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559225113720	Marionette	INFO	Listening on port 50476
+1559225113783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dc2f4l41&promiseSupport=true, line 5785: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+1559225123512	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=8lbc0v, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=8lbc0v, line 1: unreachable code after return statement
+JavaScript error: https://jsuol.com.br/barra/parceiro-async.js?parceiro=uolbusca, line 1: TypeError: window.universal_variable.aud is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559225500461	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7m/4zc05jf57nz61bcynfmtkfkr0000gn/T/rust_mozprofile.Ws7SvnRqiWgj"
+1559225503490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559225503493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559225503493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559225508460	Marionette	INFO	Listening on port 51766
+1559225508561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dc2f4l41&promiseSupport=true, line 5785: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+1559225515719	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1559225516658;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1559225516658;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1559225516658;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1559225516658;click=, line 22: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=8lbc0v, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=8lbc0v, line 1: unreachable code after return statement
+JavaScript error: https://jsuol.com.br/barra/parceiro-async.js?parceiro=uolbusca, line 1: TypeError: window.universal_variable.aud is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559226510918	Marionette	INFO	Stopped listening on port 63560
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1559227673525	Marionette	INFO	Stopped listening on port 50476
+JavaScript error: resource://gre/modules/PushServiceWebSocket.jsm, line 307: NS_ERROR_NOT_CONNECTED: Component returned failure code: 0x804b000c (NS_ERROR_NOT_CONNECTED) [nsIWebSocketChannel.sendMsg]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1559595612714	Marionette	INFO	Stopped listening on port 51766
+1563812124537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7m/4zc05jf57nz61bcynfmtkfkr0000gn/T/rust_mozprofile.WpHt2MT4oClc"
+1563812128553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563812128555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563812128556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563812135372	Marionette	INFO	Listening on port 55734
+1563812135409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 3292: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIContentPermissionRequest.cancel]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1563812164350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7m/4zc05jf57nz61bcynfmtkfkr0000gn/T/rust_mozprofile.CSu8MFf5RTjj"
+1563812165744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563812165747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563812165747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563812168443	Marionette	INFO	Listening on port 56004
+1563812168475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+1563812182733	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563812183001;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563812183001;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563812183001;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563812183001;click=, line 22: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563494469564%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=8lbc0v, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=8lbc0v, line 1: unreachable code after return statement
+JavaScript error: https://jsuol.com.br/barra/parceiro-async.js?parceiro=uolbusca, line 1: TypeError: window.universal_variable.aud is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563494469564%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563812575201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7m/4zc05jf57nz61bcynfmtkfkr0000gn/T/rust_mozprofile.Bdv8dKTi4xmT"
+1563812576668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563812576672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563812576672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563812579949	Marionette	INFO	Listening on port 57034
+1563812580033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+1563812587868	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563812590881;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563812590881;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563812590881;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563812590881;click=, line 22: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=8lbc0v, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=8lbc0v, line 1: unreachable code after return statement
+JavaScript error: https://jsuol.com.br/barra/parceiro-async.js?parceiro=uolbusca, line 1: TypeError: window.universal_variable.aud is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563494469564%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1563812883058	Marionette	INFO	Stopped listening on port 56004
+1563812883815	Marionette	INFO	Stopped listening on port 57034
+1563819355205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7m/4zc05jf57nz61bcynfmtkfkr0000gn/T/rust_mozprofile.P4uFVZGbKmRw"
+1563819358299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563819358301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563819358301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563819365165	Marionette	INFO	Listening on port 62112
+1563819365213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+1563819376826	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=8lbc0v, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=8lbc0v, line 1: unreachable code after return statement
+JavaScript error: https://jsuol.com.br/barra/parceiro-async.js?parceiro=uolbusca, line 1: TypeError: window.universal_variable.aud is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563813277821%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563819441780;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563819441780;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563819441783;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563819441783;click=, line 22: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563819714997;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563819714997;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563819714997;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563819714997;click=, line 22: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563819952966;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563819952966;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563819952967;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563819952967;click=, line 22: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563820236441;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563820236441;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563820236441;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563820236441;click=, line 22: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563820471253;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563820471253;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563820471253;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563820471253;click=, line 22: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563820722011;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563820722011;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563820722011;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563820722011;click=, line 22: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1dg1cuc80&promiseSupport=true, line 5800: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563820973102;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1563820973102;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563820973103;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1563820973103;click=, line 22: unreachable code after return statement
+1563883580589	Marionette	INFO	Stopped listening on port 62112
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js, line 6: TypeError: p is undefined
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js, line 6: TypeError: p is undefined
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js, line 6: TypeError: p is undefined
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js, line 6: TypeError: p is undefined
+Exiting due to channel error.
+Exiting due to channel error.
