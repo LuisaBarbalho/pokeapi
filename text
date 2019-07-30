@@ -1,0 +1,172 @@
+PYTHON -> PRIMEIRAS AULAS
+
+tipo
+numerico - int/ float:
+caracteres - string:
+lógica - bool: True or False ( com letra maiúscula)
+
+Operadores:
+concatenação: +
+** : exponenciação
+// : divisão inteira (ignora parte decimal)
+
+.lower : gerar nova string na memoria ram, não modifica a string inicial - letras minúscula
+.upper
+.split
+
+
+help(str.split) -> pra saber oq faz
+
+\t (tab)
+
+len() -> quantidade de caracteres
+.count(“oi") -> quantas vezes ‘oi’ se repete
+
+formatação
+“Este é um texto %s” %7
+
+b=7
+str(b) -> transforma em string
+int(“7”) -> transforma em inteiro
+
+“este é um texto {} {}”.format(7, 5) -> pode colocar a ordem do format nas chaves
+
+f”Qualquer String: {b}”
+
+from math import sqrt
+type() -> o tipo da variável
+
+LB_nome_usuario = input("Nome: ")
+LB_horas = int(input("Horas Trabalhadas: "))
+LB_valor_por_hora = float(input("Valor Por Hora Trabalhada: "))
+LB_salario = LB_horas * LB_valor_por_hora
+print(f"Nome: {LB_nome_usuario}")
+print(f"Salario: {LB_salario}”)
+
+
+
+DÚVIDA
+como chamar um procedimento no print? tem como?
+
+AULA 6 ----------------------------------------------------------------------------------------------------
+
+criar arquivo .env:
+FLASK_APP=app.py
+FLASK_ENV=development
+
+LINHA DE COMANDO
+source .env -> carrega o .env
+echo $FLASK_APP -> vai mostrar a variável
+pip install python-dotenv
+flask run
+
+CÓDIGO
+HERANÇA DE TEMPLATE
+{% block content %}{% endblock %} -> referenciar um template
+{% extends 'base.html' %} -> para herdar do do base.html
+{% block content %}      -> para passar o código em content
+<h2>Minhas Tarefas</h2>
+{% endblock %}
+
+app.config['SQLALQUEMY_DATABASE_URI'] =￿"sqlite:///tarefas.sqlite” -> caminho
+app.config['SQLALQUEMY_DATABASE_URI'] =￿”postgres://usuario:senha@localhost/tarefas”
+-> ”postgres://postgres:081095@localhost/tarefas”
+
+ORM - mapeamento objeto relacional
+pip install flask-sqlalchemy flask-migrate
+pip freeze -> aparece bibliotecas utilizadas no projeto
+pip freeze > requirements.txt -> cria o arquivo com as bibliotecas do projeto
+pip install -r requirements.txt -> instala todas as bibliotecas (npm install)
+
+BANCO DE DADOS
+TERMINAL
+pip install flask-sqlalchemy flask-migrate
+CONFIG
+from flask import Flask, render_template, request
+from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate
+
+app = Flask(__name__)
+
+app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///tarefas.sqlite"
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
+db = SQLAlchemy(app)
+migrate = Migrate(app, db)
+
+from models import Tarefa
+MODELS.PY -> criar colunas do db
+from app import db
+
+class Tarefa(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    descricao = db.Column(db.String)
+
+TERMINAL
+flask db init -> dps de ter criado o models.py
+flask db migrate -> criar tabela
+flask db upgrade -> inserir tabela
+
+
+CODIGO
+db.session.commit() -> gravar no banco de dados
+
+
+tarefas = Tarefa.query.all() -> pega todas as tarefas cadastradas no banco
+
+
+Jinja 2
+
+AULA 7 ----------------------------------------------------------------------------------------------------
+
+python - aula 7
+
+api - comunicação entre aplicações
+api rest - protocol de aplicação html
+wstl - ninguém mais usa isso
+
+retorna em json - para o python - paralelo em
+
+se comunica através do protocolo http (framework de front para back)
+mas retorna em json
+
+biblioteca request - requisição em python (get, post, …) - transforma em dicionário
+
+TERMINAL
+pip install requests purest -> instalar biblioteca requests e purest
+
+CÓDIGO
+POKEAPI_ENDPOINT = "https://pokeapi.co/api/v2/pokemon/{}/“
+{} -> para poder consultar qualquer pokemon
+
+arquivo python - modulo
+para testar: test_nomedomodulo
+
+CÓDIGO
+print( data['order'] )
+
+for type in data['types']:
+    print(type['type']['name’])
+
+
+pacote -> arquivo: __init__
+pasta que contem varios módulos
+organizar conjunto de módulos
+
+
+começar com test_ as funções dos testes
+
+cache - chama a função uma vez
+
+itertools e functool (bibliotecas importantes)
+decorator -> lru_cache
+
+import pickle
+serealização dos dados -> da memória ram para um arquivo -> também tem o processo inverso -> armazenar objeto python em um arquivo
+
+cmd + / -> comenta código/ desconecta
+
+testes para pag web -> selenium -> criar um robô -> automação -> existe para outras linguagens
+
+headless -> sem interface
+
+qt -> https://www.qt.io/qt-for-python
